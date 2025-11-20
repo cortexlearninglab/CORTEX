@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8" />
+  <title>CTX Learning Lab</title>  
+
+<link rel="icon" type="image/png" href="/favicon.png">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+  <style>
+    html, body {
+      margin: 0;
+      padding: 0;
+      height: 100%;
+      width: 100%;
+      overflow: hidden;
+      background: #000;
+    }
+
+    iframe {
+      width: 100%;
+      height: 100%;
+      border: none;
+      display: block;
+      margin: 0;
+      padding: 0;
+    }
+  </style>
+</head>
+
+<body>
+  <iframe
+    src="https://script.google.com/macros/s/AKfycbwyZpc0ToekQe1zVnXna8yPiN9kXOqCEM0ykFOsCZ-5opGhn9w4hPNvYF7-xD0jAdQODA/exec"
+    title="CTX Learning Lab"
+    loading="lazy"
+    referrerpolicy="no-referrer-when-downgrade"
+  ></iframe>
+</body>
+</html>
+
+
+
+
